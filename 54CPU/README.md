@@ -10,15 +10,17 @@
 
 ### 二、硬件逻辑图
 
-![]()
+![](https://github.com/wheel-maker/wheel-CPU/blob/master/54CPU/imgs/struct.png)
 
 ### 三、实验结果
 
 1. Modelsim仿真结果
 
-   ![]()
+   ![](https://github.com/wheel-maker/wheel-CPU/blob/master/54CPU/imgs/modelsim1.png)
+   ![](https://github.com/wheel-maker/wheel-CPU/blob/master/54CPU/imgs/modelsim2.png)
 
 2. 下板结果
+   ![](https://github.com/wheel-maker/wheel-CPU/blob/master/54CPU/imgs/result.jpg)
 
    
 
